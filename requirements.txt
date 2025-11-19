@@ -1,0 +1,6 @@
+transformers==4.42.4
+peft==0.12.0
+accelerate
+torch
+streamlit
+safetensors
